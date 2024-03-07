@@ -1,0 +1,22 @@
+#### Get all employee
+GET http://localhost:3000/employee
+
+### Post an employee
+POST http://localhost:3000/employee
+
+### Get employee by ID
+GET http://localhost:3000/employee/id
+
+### Patch employee by ID
+PATCH http://localhost:3000/employee/id
+
+### Delete employee by its ID
+DELETE http://localhost:3000/employee/id 
+
+## The endpoint is wrong
+GET http://localhost:3000/qweqweqwe
+
+### Get user
+GET http://localhost:3000/user
+
+
